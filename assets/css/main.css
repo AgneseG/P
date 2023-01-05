@@ -99,11 +99,10 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #935d8c;
 		background-image: url("images/sfondo.jpeg");
-		background-image: url("images/overlay.png");
 		background-image: url("images/sfondo.jpeg");
-		background-image: url("images/overlay.png");
+		background-image: url("images/sfondo.jpeg");
+		background-image: url("images/sfondo.jpeg");
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
