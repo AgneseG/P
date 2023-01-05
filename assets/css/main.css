@@ -100,9 +100,6 @@ input, select, textarea {
 
 	body {
 		background-image: url("images/sfondo.jpeg");
-		background-image: url("images/sfondo.jpeg");
-		background-image: url("images/sfondo.jpeg");
-		background-image: url("images/sfondo.jpeg");
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -118,10 +115,9 @@ input, select, textarea {
 
 /* Type */
 
-	body {
-		background-color: #935d8c;
-		color: rgba(255, 255, 255, 0.65);
-	}
+body {
+	background-image: url("images/sfondo.jpeg");
+}
 
 	body, input, select, textarea {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
